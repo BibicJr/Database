@@ -522,19 +522,31 @@ ${name of broker} can also transfer to another broker for free, so you could sav
 To request the DRS transfer:
 You will either have to start a chat in the app to make the request, or send them an email at us-shares-transfer@pearler.com. As well as complete DriveWealth's Outgoing DRS Transfer form, located here (DriveWealth is the broker that ${name of broker} uses to manage US stocks).
 How to fill out the Outgoing Share Transfer form (this is all the information you need for a chat representative as well):
-DW Account Number: This can be found on your Settings > Shares settings & dividends > US page.
-Account Holder (name): Your name.
-Phone: Your Phone Number.
-Email Address: Your email address.
-Company Name: ${company name}.
-Ticker: ${Stock Symbol}.
-CUSIP: ${CUSIP}
-Number of Shares: How many shares you want to transfer.
-Receiving Firm Name: ${transfer agent name}.
-DTC Number: ${transfer agent DTC member #}.
-Receiving Firm’s Address: Attn: Stock Transfer Department, ${transfer agent address}.
-Shares should be registered to the benefit of: Your Name.
-Social Security #: If you don’t have one, enter “999-99-999” in this field.
+DriveWealth Account Information:
+Account Number: ${name of broker} Account Number.
+Account Name(s)/Title: Your name.
+Tax ID(s) on the DriveWealth Account: Your Tax ID
+Account type: Most likely individual
+Contra Firm Account Information
+Account Number: If transferring to a transfer agent you can leave this blank. The shares will be transferred to your name, not account number. It is not advised to give out your transfer agent account number unless you are tranfserring back to your broker.
+Account Name(s)/Title: Your name.
+Tax ID(s) on Account: Your Tax ID
+Receiving Firm Name: Computershare, DTC Number: 7807.
+Receiving Firm’s Address: Attn: Stock Transfer Department, 462 South 4th Street, Suite 1600 Louisville KY 40202.
+Receiving Firm Transfer Department Phone Number and/or Email Address: +800-3823-3823 or +1 800-522-6645
+Receiving Firm DTC/ACAT Clearing number: You can leave this blank as it's not applicable for DRS transfers
+Receiving Account Type: Most likely individual.
+Transfer Instructions
+Tick DRS transfer.
+If you want to transfer your entire portfolio you can leave the table blank, otherwise fill in:
+Position Name: GameStop Corp
+Position Symbol or CUSIP: GME or 36467W109
+Number of shares: The amount of shares you want to transfer.
+You can ignore the cash amount section below the table.
+You can skip the second table for Mutual Funds
+Signatures:
+Sign and date accordingly
+You can ignore the rest of the form, this is for internal use.
 Once the form is completed (as well as signed and dated), send it to ${name of broker} through their app or email address: us-shares-transfer@pearler.com.
 Keep a copy of your DRS form as it will help knowing exactly how ${name of broker} entered your information into their system, which in turn will be used on ${transfer agent name}’s system.
 You should receive an automated email response from ${name of broker}, advising that one of their team will be in touch shortly. This contact may take anywhere from hours to a couple of days.
@@ -677,18 +689,30 @@ Sproutfi is taking on clients from Passfolio and Stake. All 3 of them use DriveW
 
 To request the transfer, you will either have to start a chat in the ${name of broker} app, or complete DriveWealth's Outgoing DRS Transfer form, located here (DriveWealth is the US broker that ${name of broker} uses to manage US stocks).
 How to fill out the Outgoing Share Transfer form (this is all the information you need for a chat representative as well):
-DW Account Number: ${name of broker} Account Number.
-Account Holder (name): Your name.
-Phone: Your Phone Number.
-Email Address: Your email address.
-Company Name: ${company name}.
-Ticker: ${Stock Symbol}.
-CUSIP: ${CUSIP}
-Number of Shares: How many shares you want to transfer.
-Receiving Firm Name: ${transfer agent name} DTC Number:  ${transfer agent DTC member #}.
-Receiving Firm’s Address: Attn: Stock Transfer Department, ${transfer agent address}.
-Shares should be registered to the benefit of: Your Name.
-Social Security #: If you don’t have one, enter “999-99-999” in this field.
+Account Number: ${name of broker} Account Number.
+Account Name(s)/Title: Your name.
+Tax ID(s) on the DriveWealth Account: Your Tax ID
+Account type: Most likely individual
+Contra Firm Account Information
+Account Number: If transferring to a transfer agent you can leave this blank. The shares will be transferred to your name, not account number. It is not advised to give out your transfer agent account number unless you are tranfserring back to your broker.
+Account Name(s)/Title: Your name.
+Tax ID(s) on Account: Your Tax ID
+Receiving Firm Name: Computershare, DTC Number: 7807.
+Receiving Firm’s Address: Attn: Stock Transfer Department, 462 South 4th Street, Suite 1600 Louisville KY 40202.
+Receiving Firm Transfer Department Phone Number and/or Email Address: +800-3823-3823 or +1 800-522-6645
+Receiving Firm DTC/ACAT Clearing number: You can leave this blank as it's not applicable for DRS transfers
+Receiving Account Type: Most likely individual.
+Transfer Instructions
+Tick DRS transfer.
+If you want to transfer your entire portfolio you can leave the table blank, otherwise fill in:
+Position Name: GameStop Corp
+Position Symbol or CUSIP: GME or 36467W109
+Number of shares: The amount of shares you want to transfer.
+You can ignore the cash amount section below the table.
+You can skip the second table for Mutual Funds
+Signatures:
+Sign and date accordingly
+You can ignore the rest of the form, this is for internal use.
 Once the form is completed (as well as signed and dated), send it to ${name of broker} through their app.
 Keep a copy of your DRS form as it will help knowing exactly how ${name of broker} and DriveWealth entered your information into their system, which in turn will be used on ${transfer agent name}’s system.
 You should receive an automated email response from ${name of broker}, advising that one of their team will be in touch shortly. This contact may take anywhere from hours to a couple of days.
@@ -704,18 +728,30 @@ ${name of broker} also charges a $200 fee to transfer to another broker via FOP 
 
 To request the transfer, complete DriveWealth's Outgoing DRS Transfer form, located here (DriveWealth is the US broker that ${name of broker} uses to manage US stocks).
 How to fill out the Outgoing Share Transfer form:
-DW Account Number: ${name of broker} Account Number.
-Account Holder (name): Your name.
-Phone: Your Phone Number.
-Email Address: Your email address.
-Company Name: ${company name}.
-Ticker: ${Stock Symbol}.
-CUSIP: ${CUSIP}
-Number of Shares: How many shares you want to transfer.
-Receiving Firm Name: ${transfer agent name} DTC Number:  ${transfer agent DTC member #}.
-Receiving Firm’s Address: Attn: Stock Transfer Department, ${transfer agent address}.
-Shares should be registered to the benefit of: Your Name.
-Social Security #: If you don’t have one, enter “999-99-999” in this field.
+Account Number: ${name of broker} Account Number.
+Account Name(s)/Title: Your name.
+Tax ID(s) on the DriveWealth Account: Your Tax ID
+Account type: Most likely individual
+Contra Firm Account Information
+Account Number: If transferring to a transfer agent you can leave this blank. The shares will be transferred to your name, not account number. It is not advised to give out your transfer agent account number unless you are tranfserring back to your broker.
+Account Name(s)/Title: Your name.
+Tax ID(s) on Account: Your Tax ID
+Receiving Firm Name: Computershare, DTC Number: 7807.
+Receiving Firm’s Address: Attn: Stock Transfer Department, 462 South 4th Street, Suite 1600 Louisville KY 40202.
+Receiving Firm Transfer Department Phone Number and/or Email Address: +800-3823-3823 or +1 800-522-6645
+Receiving Firm DTC/ACAT Clearing number: You can leave this blank as it's not applicable for DRS transfers
+Receiving Account Type: Most likely individual.
+Transfer Instructions
+Tick DRS transfer.
+If you want to transfer your entire portfolio you can leave the table blank, otherwise fill in:
+Position Name: GameStop Corp
+Position Symbol or CUSIP: GME or 36467W109
+Number of shares: The amount of shares you want to transfer.
+You can ignore the cash amount section below the table.
+You can skip the second table for Mutual Funds
+Signatures:
+Sign and date accordingly
+You can ignore the rest of the form, this is for internal use.
 Once the form is completed (as well as signed and dated), send it to support@hellostake.com.
 Keep a copy of your DRS form as it will help knowing exactly how ${name of broker} and DriveWealth entered your information into their system, which in turn will be used on ${transfer agent name}’s system.
 You should receive an automated email response from ${name of broker}, advising that one of their team will be in touch shortly. This contact may take anywhere from hours to a couple of days.
@@ -728,18 +764,31 @@ Your account being unlocked indicates that your shares have left ${name of broke
 Stockal
 To request the transfer, complete DriveWealth's Outgoing DRS Transfer form, located here (DriveWealth is the US broker that ${name of broker} uses to manage US stocks).
 How to fill out the Outgoing Share Transfer form:
-DW Account Number: ${name of broker} Account Number.
-Account Holder (name): Your name.
-Phone: Your Phone Number.
-Email Address: Your email address.
-Company Name: ${company name}.
-Ticker: ${Stock Symbol}.
-CUSIP: ${CUSIP}
-Number of Shares: How many shares you want to transfer.
-Receiving Firm Name: ${transfer agent name} DTC Number:  ${transfer agent DTC member #}.
-Receiving Firm’s Address: Attn: Stock Transfer Department, ${transfer agent address}.
-Shares should be registered to the benefit of: Your Name.
-Social Security #: If you don’t have one, enter “999-99-999” in this field.
+DriveWealth Account Information:
+Account Number: ${name of broker} Account Number.
+Account Name(s)/Title: Your name.
+Tax ID(s) on the DriveWealth Account: Your Tax ID
+Account type: Most likely individual
+Contra Firm Account Information
+Account Number: If transferring to a transfer agent you can leave this blank. The shares will be transferred to your name, not account number. It is not advised to give out your transfer agent account number unless you are tranfserring back to your broker.
+Account Name(s)/Title: Your name.
+Tax ID(s) on Account: Your Tax ID
+Receiving Firm Name: Computershare, DTC Number: 7807.
+Receiving Firm’s Address: Attn: Stock Transfer Department, 462 South 4th Street, Suite 1600 Louisville KY 40202.
+Receiving Firm Transfer Department Phone Number and/or Email Address: +800-3823-3823 or +1 800-522-6645
+Receiving Firm DTC/ACAT Clearing number: You can leave this blank as it's not applicable for DRS transfers
+Receiving Account Type: Most likely individual.
+Transfer Instructions
+Tick DRS transfer.
+If you want to transfer your entire portfolio you can leave the table blank, otherwise fill in:
+Position Name: GameStop Corp
+Position Symbol or CUSIP: GME or 36467W109
+Number of shares: The amount of shares you want to transfer.
+You can ignore the cash amount section below the table.
+You can skip the second table for Mutual Funds
+Signatures:
+Sign and date accordingly
+You can ignore the rest of the form, this is for internal use.
 You're now ready to send it to Drivewealth through their online portal.
 You can log in using your broker account number (also known as the DriveWealth account number) and some of your personal details (that your broker shares with DriveWealth).
 Once you are logged in, go to the help page and click on create new ticket button at the bottom. (Direct link to new ticket page here).
