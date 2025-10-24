@@ -221,16 +221,31 @@ In the ${transfer agent name} account number box you can put “To be created by
 Navy Federal Credit Union (NFCU)
 To request the transfer, complete DriveWealth's Outgoing DRS Transfer form, located here (DriveWealth is the broker that ${name of broker} uses to manage US stocks).
 How to fill out the Outgoing Share Transfer form:
-DW Account Number: ${name of broker} Account Number.
-Account Holder (name): Your name.
-Phone: Your Phone Number.
-Email Address Your email address.
-Company Name: ${company name} (${Stock Symbol}).
-Receiving Firm Name: ${transfer agent name}.
-DTC Number: ${transfer agent DTC member #}.
-Receiving Firm’s Address: Attn: Stock Transfer Department, ${transfer agent address}.
-Shares should be registered to the benefit of: 'Your Name Here".
-Social Security #: If you don’t have one, enter “999-99-999” in this field.
+DriveWealth Account Information:
+Account Number: ${name of broker} Account Number.
+Account Name(s)/Title: Your name.
+Tax ID(s) on the DriveWealth Account: Your SSN
+Account type: Most likely individual
+Contra Firm Account Information
+Account Number: If transferring to a transfer agent you can leave this blank. The shares will be transferred to your name, not account number. It is not advised to give out your transfer agent account number unless you are tranfserring back to your broker.
+Account Name(s)/Title: Your name.
+Tax ID(s) on Account: Your SSN.
+Receiving Firm Name: Computershare, DTC Number: 7807.
+Receiving Firm’s Address: Attn: Stock Transfer Department, 462 South 4th Street, Suite 1600 Louisville KY 40202.
+Receiving Firm Transfer Department Phone Number and/or Email Address: +800-3823-3823 or +1 800-522-6645
+Receiving Firm DTC/ACAT Clearing number: You can leave this blank as it's not applicable for DRS transfers
+Receiving Account Type: Most likely individual.
+Transfer Instructions
+Tick DRS transfer.
+If you want to transfer your entire portfolio you can leave the table blank, otherwise fill in:
+Position Name: GameStop Corp
+Position Symbol or CUSIP: GME or 36467W109
+Number of shares: The amount of shares you want to transfer.
+You can ignore the cash amount section below the table.
+You can skip the second table for Mutual Funds
+Signatures:
+Sign and date accordingly
+You can ignore the rest of the form, this is for internal use.
 Once the form is completed (as well as signed and dated), send it back to "contactdigitalinvestor@navyfederal.org".
 Keep a copy of your DRS form as it will help knowing exactly how ${name of broker} entered your information into their system, which in turn will be used on ${transfer agent name}’s system.
 You should receive an automated email response from ${name of broker}, advising that one of their team will be in touch shortly. This contact may take anywhere from hours to a couple of days.
